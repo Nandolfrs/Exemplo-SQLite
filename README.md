@@ -12,5 +12,5 @@ Neste exemplo prático
 Screenshots
 -------------
 
-![Alt text](/Screenshots/sample1.png) - ![Alt text](/Screenshots/sample2.png)
+![Alt text](/Screenshots/sample1.png) ![Alt text](/Screenshots/sample2.png)
 ![Alt text](/Screenshots/sample3.png)
