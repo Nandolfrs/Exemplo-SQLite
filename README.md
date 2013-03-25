@@ -2,6 +2,7 @@ Exemplo-SQLite
 ==============
 
 ***Um exemplo da utilização da biblioteca SQLite em Java.***
+
 ***Desenvolvido por Luiz Fernando Rosa da Silva.***
 
 Funcionamento
